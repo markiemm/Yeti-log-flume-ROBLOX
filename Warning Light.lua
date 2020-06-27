@@ -22,7 +22,6 @@ updatetoggle()
 
 
 
-
 rate=1/30
 rps=1
 currentrotation=math.random()
