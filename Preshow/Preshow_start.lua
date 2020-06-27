@@ -208,8 +208,8 @@ function Reset_Room()
 	wait(0.5)
 	Roof_Light.Brightness = 1.4
 	wait(0.5)
-	TV_Left.Image = "rbxgameasset://Images/Yeti"
-	TV_Right.Image = "rbxgameasset://Images/Yeti"
+	TV_Left.Image = "rbxgameasset://Images/yeti-bigfoot"
+	TV_Right.Image = "rbxgameasset://Images/yeti-bigfoot"
 	wait(0.5)
 	Roof_Light.Range = 27
 	wait(0.5)
